@@ -1,0 +1,30 @@
+{
+  "name": "nextbest",
+  "version": "1.0.0",
+  "description": "The Next Best Thing",
+  "author": "Marco P (http://www.owlery.club/)",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapineda/nextbest.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "npm"
+  ],
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "express": "4.15.3",
+    "jsonwebtoken": "7.4.1",
+    "mongoose": "4.11.1"
+  },
+  "bugs": {
+    "url": "https://github.com/mapineda/nextbest/issues"
+  },
+  "homepage": "https://github.com/mapineda/nextbest#readme"
+}
