@@ -18,7 +18,7 @@ process.env.SECRET_KEY = 'Password#1';
 
 //controllers
 var authenticateController = require('./server/controllers/authenticateController');
-
+var dataController = require('./server/controllers/dataController');
 //config
 var config = require('./server/config/config.js');
 config.setConfig();
